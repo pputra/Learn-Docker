@@ -2,7 +2,7 @@
 - cd node-redis-containers
 - docker-compose up --build
 
-# To run in the background:
+# To run:
 - docker-compose up
 
 # To list the running containers:
